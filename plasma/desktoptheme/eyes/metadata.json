@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Amedo",
+                "Email": "amedoeyes@gmail.com"
+            }
+        ],
+        "Name": "eyes",
+        "Description": "Monochrome theme for KDE Plasma",
+        "Id": "eyes",
+        "Version": "0",
+        "Category": "",
+        "EnabledByDefault": true,
+        "License": "GPL 3+",
+        "Website": "https://github.com/amedoeyes/eyes-kde"
+    },
+    "X-Plasma-API": "5.0"
+}
