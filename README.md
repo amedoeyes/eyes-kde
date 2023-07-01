@@ -1,6 +1,6 @@
 # eyes
 
-![preview](plasma/look-and-feel/eyes/contents/previews/preview.png)
+![preview](plasma/look-and-feel/eyes/contents/previews/fullscreenpreview.jpg)
 
 Monochrome theme for KDE Plasma.
 
