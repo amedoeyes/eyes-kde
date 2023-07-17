@@ -14,7 +14,7 @@ RandomHueRange=360
 RandomSaturationRange=100
 
 [Color0]
-Color=32,32,32
+Color=0,0,0
 
 [Color0Faint]
 Color=0,0,0
@@ -23,80 +23,80 @@ Color=0,0,0
 Color=48,48,48
 
 [Color1]
-Color=48,48,48
+Color=96,96,96
 
 [Color1Faint]
-Color=48,48,48
+Color=96,96,96
 
 [Color1Intense]
-Color=48,48,48
+Color=96,96,96
 
 [Color2]
-Color=170,170,170
+Color=144,144,144
 
 [Color2Faint]
-Color=170,170,170
+Color=144,144,144
 
 [Color2Intense]
-Color=170,170,170
+Color=144,144,144
 
 [Color3]
-Color=112,112,112
+Color=176,176,176
 
 [Color3Faint]
-Color=112,112,112
+Color=176,176,176
 
 [Color3Intense]
-Color=112,112,112
+Color=176,176,176
 
 [Color4]
-Color=80,80,80
+Color=64,64,64
 
 [Color4Faint]
-Color=80,80,80
+Color=64,64,64
 
 [Color4Intense]
-Color=80,80,80
+Color=64,64,64
 
 [Color5]
-Color=204,204,204
+Color=112,112,112
 
 [Color5Faint]
-Color=204,204,204
+Color=112,112,112
 
 [Color5Intense]
-Color=204,204,204
+Color=112,112,112
 
 [Color6]
-Color=204,204,204
+Color=128,128,128
 
 [Color6Faint]
-Color=170,170,170
+Color=128,128,128
 
 [Color6Intense]
-Color=170,170,170
+Color=128,128,128
 
 [Color7]
-Color=170,170,170
+Color=192,192,192
 
 [Color7Faint]
-Color=170,170,170
+Color=192,192,192
 
 [Color7Intense]
-Color=170,170,170
+Color=240,240,240
 
 [Foreground]
-Color=170,170,170
+Color=160,160,160
 RandomHueRange=360
 RandomSaturationRange=100
 
 [ForegroundFaint]
-Color=170,170,170
+Color=160,160,160
 RandomHueRange=360
 RandomSaturationRange=100
 
 [ForegroundIntense]
-Color=170,170,170
+Color=160,160,160
 RandomHueRange=360
 RandomSaturationRange=100
 
